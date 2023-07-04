@@ -1,0 +1,54 @@
+* {
+  background-color: rgb(103,62,74);
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5em;
+  margin: 5px;
+}
+
+a:link {
+  color: white;
+}
+
+nav {
+  text-align: center;
+}
+
+body {
+  margin: auto;
+  width: 70%;
+}
+
+
+h1 {
+  font-size: 3.5em;
+  color: white;
+  text-align: center;
+  margin-left: -5px;
+}
+
+p {
+  color: white;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+
+ul {
+  list-style: none;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  margin-left: -40px;
+}
+
+li {
+  margin: 15px;
+}
+
+.soundcloud h1 {
+  margin-left: -50px;
+}
